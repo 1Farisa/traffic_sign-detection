@@ -22,7 +22,7 @@ This Streamlit application allows users to upload an image of a traffic sign and
 
 Here’s a screenshot of the traffic sign classification app in action:
 
-![Streamlit App Screenshot](images/streamlit_app.png)
+![Streamlit App Screenshot](images/Screenshot 2024-12-18 141648.png)
 
 ## Project Overview:
 
