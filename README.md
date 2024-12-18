@@ -75,4 +75,4 @@ After uploading an image, the model will output the predicted class, such as:
 This project demonstrates the use of deep learning for traffic sign classification, providing a practical tool for real-time prediction with a trained model deployed in a web application.
 
 
-Dataset Link 🤜 https://drive.google.com/file/d/1Tzw4...
+Dataset Link 🤜[ https://drive.google.com/file/d/1Tzw4...](https://github.com/Chando0185/traffic_sign_recognition/blob/main/labels.csv)
